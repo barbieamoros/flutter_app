@@ -1,4 +1,4 @@
-# my_app
+# Homeopathy App
 
 A new Flutter project.
 
